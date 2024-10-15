@@ -12,6 +12,13 @@ Additionally, a **management API** is provided on port **8080** to simplify cont
 - **Management API**: Allows you to create and manage containers via an API.  
 - **Auto-pull Docker Images**: Automatically pulls images if they don’t exist locally.  
 
+## Architecture  
+
+Below is a high-level architecture diagram illustrating the reverse proxy and management API setup:
+
+![Architecture Diagram](./public/architecture.png)
+
+
 ---
 
 ## Prerequisites  
